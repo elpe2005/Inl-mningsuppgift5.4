@@ -6,7 +6,7 @@ namespace uppgift54
     {
         static void Main(string[] args)
         {
-            string[] namn = { "ödla", "Elliot", "Daniel", "Malin", "Tobias" };
+            string[] namn = { "Tina", "Olle", "Daniel", "Malin", "Tobias" };
 
             Array.Sort (namn);
 
